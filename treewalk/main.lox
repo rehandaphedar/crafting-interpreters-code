@@ -1,0 +1,4 @@
+var days = 4
+var book = "Crafting Interpreters"
+var chapter = 1
+var progress = "3%"
